@@ -1,3 +1,110 @@
+2005-02-05 23:17  olivier
+
+	* themes/: trench/.cvsignore, trench/Makefile.in,
+	  triviality/.cvsignore, triviality/Makefile.in,
+	  tubular/.cvsignore, tubular/Makefile.in, tux/.cvsignore,
+	  tux/Makefile.in, variation/.cvsignore, variation/Makefile.in,
+	  xfce/.cvsignore, xfce/Makefile.in: Ignore generated files
+
+2005-02-05 23:14  olivier
+
+	* themes/: smoothwall/.cvsignore, smoothwall/Makefile.in,
+	  synthetic/.cvsignore, synthetic/Makefile.in, tabs/.cvsignore,
+	  tabs/Makefile.in, tgc/.cvsignore, tgc/Makefile.in,
+	  tgc-large/.cvsignore, tgc-large/Makefile.in, today/.cvsignore,
+	  today/Makefile.in, totem/.cvsignore, totem/Makefile.in: Ignore
+	  generated files
+
+2005-02-05 23:10  olivier
+
+	* themes/: redmondxp/.cvsignore, redmondxp/Makefile.in,
+	  retro/.cvsignore, retro/Makefile.in, silverado/.cvsignore,
+	  silverado/Makefile.in, slick/.cvsignore, slick/Makefile.in,
+	  slimline/.cvsignore, slimline/Makefile.in,
+	  smallscreen/.cvsignore, smallscreen/Makefile.in: Ignore generated
+	  files
+
+2005-02-05 23:07  olivier
+
+	* themes/: pills/.cvsignore, pills/Makefile.in, piranha/.cvsignore,
+	  piranha/Makefile.in, platinum/.cvsignore, platinum/Makefile.in,
+	  prune/.cvsignore, prune/Makefile.in, quiet-purple/.cvsignore,
+	  quiet-purple/Makefile.in, quinx/.cvsignore, quinx/Makefile.in,
+	  r9x/.cvsignore, r9x/Makefile.in, redmond/.cvsignore,
+	  redmond/Makefile.in: Ignore generated files
+
+2005-02-05 23:04  olivier
+
+	* themes/: microdeck3/.cvsignore, microdeck3/Makefile.in,
+	  microgui/.cvsignore, microgui/Makefile.in, mofit/.cvsignore,
+	  mofit/Makefile.in, next/.cvsignore, next/Makefile.in,
+	  ops/.cvsignore, ops/Makefile.in, oroborus/.cvsignore,
+	  oroborus/Makefile.in, perl/.cvsignore, perl/Makefile.in: Ignore
+	  generated files
+
+2005-02-05 23:01  olivier
+
+	* themes/: meenee/.cvsignore, meenee/Makefile.in,
+	  metabox/.cvsignore, metabox/Makefile.in, microcurve/.cvsignore,
+	  microcurve/Makefile.in, microdeck/.cvsignore,
+	  microdeck/Makefile.in, microdeck2/.cvsignore,
+	  microdeck2/Makefile.in: Ignore generated files
+
+2005-02-05 22:58  olivier
+
+	* themes/: kindaker/.cvsignore, kindaker/Makefile.in,
+	  kleanux/.cvsignore, kleanux/Makefile.in, koynacity/.cvsignore,
+	  koynacity/Makefile.in, linea/.cvsignore, linea/Makefile.in,
+	  lineart/.cvsignore, lineart/Makefile.in: Ignore generated files
+
+2005-02-05 22:54  olivier
+
+	* themes/: gtk/.cvsignore, gtk/Makefile.in, iceg/.cvsignore,
+	  iceg/Makefile.in, kde/.cvsignore, kde/Makefile.in,
+	  kde1/.cvsignore, kde1/Makefile.in, keramik/.cvsignore,
+	  keramik/Makefile.in: Ignore generated files
+
+2005-02-05 22:50  olivier
+
+	* themes/: gaudy/.cvsignore, gaudy/Makefile.in, gelly/.cvsignore,
+	  gelly/Makefile.in, gnububble/.cvsignore, gnububble/Makefile.in,
+	  gorilla/.cvsignore, gorilla/Makefile.in: Ignore generated files
+
+2005-02-05 22:47  olivier
+
+	* themes/: curve/.cvsignore, curve/Makefile.in,
+	  defcon-IV/.cvsignore, defcon-IV/Makefile.in,
+	  eazel-blue/.cvsignore, eazel-blue/Makefile.in, elberg/.cvsignore,
+	  elberg/Makefile.in, exocet/.cvsignore, exocet/Makefile.in,
+	  fbx/.cvsignore, fbx/Makefile.in, g2/.cvsignore, g2/Makefile.in,
+	  galaxy/.cvsignore, galaxy/Makefile.in: Ignore generated files
+
+2005-02-05 22:44  olivier
+
+	* themes/: beastie/.cvsignore, beastie/Makefile.in, biz/.cvsignore,
+	  biz/Makefile.in, blackwall/.cvsignore, blackwall/Makefile.in,
+	  buzz/.cvsignore, buzz/Makefile.in, coldsteel/.cvsignore,
+	  coldsteel/Makefile.in, coolclean/.cvsignore,
+	  coolclean/Makefile.in, crux/.cvsignore, crux/Makefile.in,
+	  cruxish/.cvsignore, cruxish/Makefile.in: Ignore generated files
+
+2005-02-05 22:40  olivier
+
+	* .cvsignore, COPYING, INSTALL, Makefile.in, aclocal.m4,
+	  autogen.sh, config.h.in, configure, install-sh, missing,
+	  mkinstalldirs, themes/.cvsignore, themes/Makefile.in,
+	  themes/adept/.cvsignore, themes/adept/Makefile.in,
+	  themes/agua/.cvsignore, themes/agua/Makefile.in,
+	  themes/agualemon/.cvsignore, themes/agualemon/Makefile.in,
+	  themes/alternate/.cvsignore, themes/alternate/Makefile.in,
+	  themes/atlanta/.cvsignore, themes/atlanta/Makefile.in,
+	  themes/atlanta2/.cvsignore, themes/atlanta2/Makefile.in,
+	  themes/b5/.cvsignore, themes/b5/Makefile.in,
+	  themes/b6/.cvsignore, themes/b6/Makefile.in,
+	  themes/basix/.cvsignore, themes/basix/Makefile.in,
+	  themes/bbs/.cvsignore, themes/bbs/Makefile.in: Ignore generated
+	  files
+
 2005-01-02 13:51  olivier
 
 	* ChangeLog, Makefile.in, configure, configure.ac: Update version
@@ -388,18 +495,6 @@
 	* themes/lineart/title-3-active.png: Change active title's png
 	  layer
 
-2004-07-09 11:32  olivier
-
-	* ChangeLog: Update ChangeLog
-
-2004-07-09 11:00  olivier
-
-	* configure, configure.ac: Update versions.
-
-2004-07-09 09:53  olivier
-
-	* ChangeLog: Update ChangeLogs for 4.0.6
-
 2004-07-07 22:30  olivier
 
 	* themes/lineart/title-3-active.png: Simpler gradient
@@ -541,42 +636,6 @@
 	  themes/synthetic/top-right-active.xpm,
 	  themes/synthetic/top-right-inactive.xpm: Add "synthetic" from
 	  xfwm4 package
-
-2004-05-04 00:17  olivier
-
-	* Makefile.in, aclocal.m4, configure, install-sh, mkinstalldirs,
-	  themes/Makefile.in, themes/adept/Makefile.in,
-	  themes/agua/Makefile.in, themes/agualemon/Makefile.in,
-	  themes/alternate/Makefile.in, themes/atlanta/Makefile.in,
-	  themes/atlanta2/Makefile.in, themes/b5/Makefile.in,
-	  themes/b6/Makefile.in, themes/beastie/Makefile.in,
-	  themes/biz/Makefile.in, themes/buzz/Makefile.in,
-	  themes/coldsteel/Makefile.in, themes/coolclean/Makefile.in,
-	  themes/crux/Makefile.in, themes/cruxish/Makefile.in,
-	  themes/defcon-IV/Makefile.in, themes/eazel-blue/Makefile.in,
-	  themes/elberg/Makefile.in, themes/fbx/Makefile.in,
-	  themes/g2/Makefile.in, themes/galaxy/Makefile.in,
-	  themes/gaudy/Makefile.in, themes/gnububble/Makefile.in,
-	  themes/gorilla/Makefile.in, themes/gtk/Makefile.in,
-	  themes/iceg/Makefile.in, themes/kde/Makefile.in,
-	  themes/kde1/Makefile.in, themes/keramik/Makefile.in,
-	  themes/kindaker/Makefile.in, themes/kleanux/Makefile.in,
-	  themes/koynacity/Makefile.in, themes/linea/Makefile.in,
-	  themes/metabox/Makefile.in, themes/microgui/Makefile.in,
-	  themes/mofit/Makefile.in, themes/next/Makefile.in,
-	  themes/ops/Makefile.in, themes/oroborus/Makefile.in,
-	  themes/perl/Makefile.in, themes/pills/Makefile.in,
-	  themes/piranha/Makefile.in, themes/platinum/Makefile.in,
-	  themes/quiet-purple/Makefile.in, themes/quinx/Makefile.in,
-	  themes/r9x/Makefile.in, themes/redmond/Makefile.in,
-	  themes/redmondxp/Makefile.in, themes/retro/Makefile.in,
-	  themes/silverado/Makefile.in, themes/slick/Makefile.in,
-	  themes/slimline/Makefile.in, themes/smallscreen/Makefile.in,
-	  themes/tabs/Makefile.in, themes/today/Makefile.in,
-	  themes/totem/Makefile.in, themes/trench/Makefile.in,
-	  themes/triviality/Makefile.in, themes/tux/Makefile.in,
-	  themes/variation/Makefile.in, themes/xfce/Makefile.in: Update
-	  zh_TW translations by umm <umm@pchome.com.tw>
 
 2004-05-03 23:45  olivier
 
@@ -992,10 +1051,6 @@
 	  themes/gelly/top-right-active.xpm,
 	  themes/gelly/top-right-inactive.png,
 	  themes/gelly/top-right-inactive.xpm: Add new theme
-
-2004-04-13 23:32  olivier
-
-	* configure, configure.ac: Fix version number on some packages
 
 2004-04-06 21:32  olivier
 
@@ -1656,43 +1711,6 @@
 	  themes/Makefile.am, themes/Makefile.in: Reorg xfwm4 theme by
 	  moving most theme from xfwm4 base package to xfwm4-themes
 
-2004-01-25 01:11  olivier
-
-	* Makefile.in, aclocal.m4, configure, configure.ac, install-sh,
-	  missing, mkinstalldirs, themes/Makefile.in,
-	  themes/adept/Makefile.in, themes/agua/Makefile.in,
-	  themes/agualemon/Makefile.in, themes/alternate/Makefile.in,
-	  themes/atlanta/Makefile.in, themes/atlanta2/Makefile.in,
-	  themes/b5/Makefile.in, themes/b6/Makefile.in,
-	  themes/beastie/Makefile.in, themes/biz/Makefile.in,
-	  themes/buzz/Makefile.in, themes/coldsteel/Makefile.in,
-	  themes/coolclean/Makefile.in, themes/crux/Makefile.in,
-	  themes/cruxish/Makefile.in, themes/defcon-IV/Makefile.in,
-	  themes/eazel-blue/Makefile.in, themes/elberg/Makefile.in,
-	  themes/fbx/Makefile.in, themes/g2/Makefile.in,
-	  themes/galaxy/Makefile.in, themes/gaudy/Makefile.in,
-	  themes/gnububble/Makefile.in, themes/gorilla/Makefile.in,
-	  themes/gtk/Makefile.in, themes/iceg/Makefile.in,
-	  themes/kde/Makefile.in, themes/kde1/Makefile.in,
-	  themes/keramik/Makefile.in, themes/kindaker/Makefile.in,
-	  themes/kleanux/Makefile.in, themes/koynacity/Makefile.in,
-	  themes/linea/Makefile.in, themes/metabox/Makefile.in,
-	  themes/microgui/Makefile.in, themes/mofit/Makefile.in,
-	  themes/next/Makefile.in, themes/ops/Makefile.in,
-	  themes/oroborus/Makefile.in, themes/perl/Makefile.in,
-	  themes/pills/Makefile.in, themes/piranha/Makefile.in,
-	  themes/platinum/Makefile.in, themes/quiet-purple/Makefile.in,
-	  themes/quinx/Makefile.in, themes/r9x/Makefile.in,
-	  themes/redmond/Makefile.in, themes/redmondxp/Makefile.in,
-	  themes/retro/Makefile.in, themes/silverado/Makefile.in,
-	  themes/slick/Makefile.in, themes/slimline/Makefile.in,
-	  themes/smallscreen/Makefile.in, themes/tabs/Makefile.in,
-	  themes/today/Makefile.in, themes/totem/Makefile.in,
-	  themes/trench/Makefile.in, themes/triviality/Makefile.in,
-	  themes/tux/Makefile.in, themes/variation/Makefile.in,
-	  themes/xfce/Makefile.in: Update libtool and other automake,
-	  autoconf and gettext.
-
 2004-01-25 01:08  olivier
 
 	* Makefile.in, aclocal.m4, configure, install-sh, missing,
@@ -1728,11 +1746,6 @@
 	  themes/triviality/Makefile.in, themes/tux/Makefile.in,
 	  themes/variation/Makefile.in, themes/xfce/Makefile.in: Update
 	  libtool and other automake, autoconf and gettext packages
-
-2004-01-07 21:38  olivier
-
-	* configure, configure.ac: Huge update before 4.0.3 release,
-	  mainly: ChangeLog update, Version number updates.
 
 2003-10-13 20:51  jasper
 
@@ -2180,24 +2193,6 @@
 
 	* configure, configure.ac, themes/Makefile.am, themes/Makefile.in:
 	  Added kleanux theme.
-
-2003-07-06 21:26  bmeurer
-
-	* themes/kleanux/: left-active.xpm, right-active.xpm,
-	  title-1-active.xpm, Makefile.am, Makefile.in, bottom-active.xpm,
-	  bottom-inactive.xpm, bottom-left-active.xpm,
-	  bottom-left-inactive.xpm, bottom-right-active.xpm,
-	  bottom-right-inactive.xpm, close-active.xpm,
-	  close-inactive-tmp.xpm, close-inactive.xpm, close-pressed.xpm,
-	  hide-active.xpm, hide-inactive.xpm, hide-pressed.xpm,
-	  left-inactive.xpm, maximize-active.xpm, maximize-inactive.xpm,
-	  maximize-pressed.xpm, menu-active.xpm, menu-inactive.xpm,
-	  menu-pressed.xpm, right-inactive.xpm, themerc,
-	  title-1-inactive.xpm, title-2-active.xpm, title-2-inactive.xpm,
-	  title-3-active.xpm, title-3-inactive.xpm, title-4-active.xpm,
-	  title-4-inactive.xpm, title-5-active.xpm, title-5-inactive.xpm,
-	  top-left-active.xpm, top-left-inactive.xpm, top-right-active.xpm,
-	  top-right-inactive.xpm: Initial import of the kleanux theme.
 
 2003-07-06 21:26  bmeurer
 
