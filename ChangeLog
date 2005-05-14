@@ -1,115 +1,73 @@
+2005-05-10 20:35  olivier
+
+	* configure.ac: Version update
+
+2005-05-04 21:22  olivier
+
+	* ChangeLog: Update ChangeLog
+
 2005-04-12 15:03  jasper
 
-	* xfwm4-themes/branches/xfce_4_2/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/aclocal.m4,
-	  xfwm4-themes/branches/xfce_4_2/autogen.sh,
-	  xfwm4-themes/branches/xfce_4_2/config.h.in,
-	  xfwm4-themes/branches/xfce_4_2/configure,
-	  xfwm4-themes/branches/xfce_4_2/install-sh,
-	  xfwm4-themes/branches/xfce_4_2/missing,
-	  xfwm4-themes/branches/xfce_4_2/mkinstalldirs,
-	  xfwm4-themes/branches/xfce_4_2/themes/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/adept/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/agua/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/agualemon/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/alternate/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/atlanta/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/atlanta2/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/b5/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/b6/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/basix/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/bbs/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/beastie/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/biz/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/blackwall/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/buzz/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/coldsteel/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/coolclean/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/crux/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/cruxish/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/curve/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/defcon-IV/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/eazel-blue/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/elberg/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/exocet/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/fbx/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/g2/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/galaxy/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/gaudy/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/gelly/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/gnububble/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/gorilla/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/gtk/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/iceg/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/kde/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/kde1/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/keramik/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/kindaker/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/kleanux/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/koynacity/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/linea/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/lineart/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/meenee/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/metabox/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/microcurve/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/microdeck/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/microdeck2/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/microdeck3/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/microgui/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/mofit/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/next/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/ops/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/oroborus/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/perl/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/pills/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/piranha/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/platinum/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/prune/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/quiet-purple/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/quinx/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/r9x/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/redmond/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/redmondxp/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/retro/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/silverado/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/slick/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/slimline/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/smallscreen/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/smoothwall/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/synthetic/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/tabs/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/tgc-large/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/tgc/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/today/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/totem/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/trench/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/triviality/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/tubular/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/tux/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/variation/Makefile.in,
-	  xfwm4-themes/branches/xfce_4_2/themes/xfce/Makefile.in: Make
-	  xfce_4_2 branch use dev tools and remove generated files
+	* Makefile.in, aclocal.m4, autogen.sh, config.h.in, configure,
+	  install-sh, missing, mkinstalldirs, themes/Makefile.in,
+	  themes/adept/Makefile.in, themes/agua/Makefile.in,
+	  themes/agualemon/Makefile.in, themes/alternate/Makefile.in,
+	  themes/atlanta/Makefile.in, themes/atlanta2/Makefile.in,
+	  themes/b5/Makefile.in, themes/b6/Makefile.in,
+	  themes/basix/Makefile.in, themes/bbs/Makefile.in,
+	  themes/beastie/Makefile.in, themes/biz/Makefile.in,
+	  themes/blackwall/Makefile.in, themes/buzz/Makefile.in,
+	  themes/coldsteel/Makefile.in, themes/coolclean/Makefile.in,
+	  themes/crux/Makefile.in, themes/cruxish/Makefile.in,
+	  themes/curve/Makefile.in, themes/defcon-IV/Makefile.in,
+	  themes/eazel-blue/Makefile.in, themes/elberg/Makefile.in,
+	  themes/exocet/Makefile.in, themes/fbx/Makefile.in,
+	  themes/g2/Makefile.in, themes/galaxy/Makefile.in,
+	  themes/gaudy/Makefile.in, themes/gelly/Makefile.in,
+	  themes/gnububble/Makefile.in, themes/gorilla/Makefile.in,
+	  themes/gtk/Makefile.in, themes/iceg/Makefile.in,
+	  themes/kde/Makefile.in, themes/kde1/Makefile.in,
+	  themes/keramik/Makefile.in, themes/kindaker/Makefile.in,
+	  themes/kleanux/Makefile.in, themes/koynacity/Makefile.in,
+	  themes/linea/Makefile.in, themes/lineart/Makefile.in,
+	  themes/meenee/Makefile.in, themes/metabox/Makefile.in,
+	  themes/microcurve/Makefile.in, themes/microdeck/Makefile.in,
+	  themes/microdeck2/Makefile.in, themes/microdeck3/Makefile.in,
+	  themes/microgui/Makefile.in, themes/mofit/Makefile.in,
+	  themes/next/Makefile.in, themes/ops/Makefile.in,
+	  themes/oroborus/Makefile.in, themes/perl/Makefile.in,
+	  themes/pills/Makefile.in, themes/piranha/Makefile.in,
+	  themes/platinum/Makefile.in, themes/prune/Makefile.in,
+	  themes/quiet-purple/Makefile.in, themes/quinx/Makefile.in,
+	  themes/r9x/Makefile.in, themes/redmond/Makefile.in,
+	  themes/redmondxp/Makefile.in, themes/retro/Makefile.in,
+	  themes/silverado/Makefile.in, themes/slick/Makefile.in,
+	  themes/slimline/Makefile.in, themes/smallscreen/Makefile.in,
+	  themes/smoothwall/Makefile.in, themes/synthetic/Makefile.in,
+	  themes/tabs/Makefile.in, themes/tgc-large/Makefile.in,
+	  themes/tgc/Makefile.in, themes/today/Makefile.in,
+	  themes/totem/Makefile.in, themes/trench/Makefile.in,
+	  themes/triviality/Makefile.in, themes/tubular/Makefile.in,
+	  themes/tux/Makefile.in, themes/variation/Makefile.in,
+	  themes/xfce/Makefile.in: Make xfce_4_2 branch use dev tools and
+	  remove generated files
 
 2005-03-12 14:53  olivier
 
-	* xfwm4-themes/branches/xfce_4_2/ChangeLog: Update ChangeLog
+	* ChangeLog: Update ChangeLog
 
 2005-03-12 14:19  olivier
 
-	* xfwm4-themes/branches/xfce_4_2/configure,
-	  xfwm4-themes/branches/xfce_4_2/configure.ac: Mass update for 4.2.1
+	* configure, configure.ac: Mass update for 4.2.1
 
 2005-01-10 19:15  benny
 
-	* xfwm4-themes/branches/xfce_4_2/ChangeLog: Final touch before the
-	  tag
+	* ChangeLog: Final touch before the tag
 
 2005-01-02 12:51  
 
-	* xfwm4-themes/branches/xfce_4_2,
-	  xfwm4-themes/branches/xfce_4_2/themes/kleanux/close-inactive-tmp.xpm:
-	  This commit was manufactured by cvs2svn to create branch
-	  'xfce_4_2'.
+	* ., themes/kleanux/close-inactive-tmp.xpm: This commit was
+	  manufactured by cvs2svn to create branch 'xfce_4_2'.
 
 2005-01-02 12:51  olivier
 
