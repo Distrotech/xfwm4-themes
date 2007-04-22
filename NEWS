@@ -1,2 +1,6 @@
+4.4.2
+=====
 
+- Fix syntax error in XPM file (Bug #3172, patch by Yves-Alexis Perez 
+  <corsac@corsac.net>)
 
