@@ -1,6 +1,6 @@
 dnl configure.ac
 
-AC_INIT([xfwm4-themes], [4.4.2], [http://bugzilla.xfce.org])
+AC_INIT([xfwm4-themes], [4.4.3], [http://bugzilla.xfce.org])
 
 AM_CONFIG_HEADER([config.h])
 
